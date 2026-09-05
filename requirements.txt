@@ -1,0 +1,5 @@
+mediapipe>=0.10.21,<0.11
+opencv-contrib-python>=4.10,<6
+numpy>=1.26,<3
+pyglet>=1.5.27,<2
+certifi>=2024
